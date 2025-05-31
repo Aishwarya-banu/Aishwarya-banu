@@ -45,7 +45,7 @@ Implemented RFM analysis and clustering to identify key customer segments.
 
 #### 🗺️ Disease Hotspot Prediction
 Modeled disease outbreak risk using environmental and epidemiological data. Employed classification models to detect high-risk regions.  
-→ [GitHub Repository](https://github.com/Aishwarya-banu/disease-hotspot-prediction)
+→ [GitHub Repository](https://github.com/Aishwarya-banu/disease_hotspot_prediction)
 
 #### 🏠 Smart Home Device Segmentation
 Clustered IoT users based on usage behavior for targeted device recommendations. Applied unsupervised learning and PCA for feature reduction.  
