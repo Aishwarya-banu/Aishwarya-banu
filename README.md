@@ -32,7 +32,7 @@ Previously, I worked on large-scale data engineering pipelines at Capgemini, bui
 ### 🛠️ Recent Projects
 
 🛠️ **No-Code AI Model Builder**  
-`A drag-and-drop interface for training ML models with zero coding.`  
+A drag-and-drop interface for training ML models with zero coding.
 → [Launch coming soon | Built with Streamlit, scikit-learn, and LLM APIs]
 
 #### 📊 Crisis Intelligence Dashboard
