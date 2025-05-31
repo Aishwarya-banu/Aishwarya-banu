@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Aishwarya Banumathy</h1>
+<h1 align="center">Hi there, I'm Aishwarya Banumathy</h1>
 <h3 align="center">Machine Learning Engineer | Product Builder | Data Enthusiast</h3>
 
 <p align="center">
