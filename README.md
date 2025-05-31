@@ -59,6 +59,7 @@ Built predictive models using logistic regression, XGBoost, and SHAP analysis to
 
 #### 🔍 **Insurance Fraud Detection**  
 Applied SMOTE and ensemble learning to build fraud detection pipelines; deployed results with interactive Tableau dashboards.
+→ [GitHub Repository](https://github.com/Aishwarya-banu/Insurance-Claim-Fraud-Detection)
 
 ---
 
