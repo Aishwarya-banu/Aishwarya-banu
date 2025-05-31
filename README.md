@@ -4,7 +4,7 @@
 <p align="center">
   🚀 Passionate about building intelligent products that solve real-world problems.<br/>
   🎯 6+ years in Data Engineering, Analytics & ML product development.<br/>
-  🎓 MSBA @ UC Davis (2025) | ex-Capgemini | Project Manager @ Make A Difference<br/>
+  🎓 MSBA @ UC Davis (2025) | ex-Capgemini | Project Manager <br/>
 </p>
 
 ---
