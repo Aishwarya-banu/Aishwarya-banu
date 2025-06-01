@@ -1,7 +1,7 @@
-<h1 align="center">Hi there, I'm Aishwarya Banumathy</h1>
-<h3 align="center">Machine Learning Engineer | Product Builder | Data Enthusiast</h3>
+<h1 align="left">Hi there, I'm Aishwarya Banumathy</h1>
+<h3 align="left">Machine Learning Engineer | Product Builder | Data Enthusiast</h3>
 
-<p align="center">
+<p align="left">
   🚀 Passionate about building intelligent products that solve real-world problems.<br/>
   🎯 6+ years in Data Engineering, Analytics & ML product development.<br/>
   🎓 MSBA @ UC Davis (2025) | ex-Capgemini | Project Manager <br/>
