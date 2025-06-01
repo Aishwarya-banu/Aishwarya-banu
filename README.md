@@ -65,10 +65,9 @@ Applied SMOTE and ensemble learning to build fraud detection pipelines; deployed
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aishwarya-banu&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aishwarya-banu&layout=compact&theme=radical" />
-</p>
+![Aishwarya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aishwarya-banu&show_icons=true&theme=default&hide=prs&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aishwarya-banu&layout=compact&theme=default)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aishwarya-banu&theme=default)
 
 ---
 
