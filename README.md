@@ -1,7 +1,7 @@
-<h1 align="left">Hi there, I'm Aishwarya Banumathy</h1>
-<h3 align="left">Machine Learning Engineer | Product Builder | Data Enthusiast</h3>
+<h1 align="center">Hi there, I'm Aishwarya Banumathy</h1>
+<h3 align="center">Machine Learning Engineer | Product Builder | Data Enthusiast</h3>
 
-<p align="left">
+<p align="center">
   🚀 Passionate about building intelligent products that solve real-world problems.<br/>
   🎯 6+ years in Data Engineering, Analytics & ML product development.<br/>
   🎓 MSBA @ UC Davis (2025) | ex-Capgemini | Project Manager <br/>
@@ -17,7 +17,7 @@ Previously, I worked on large-scale data engineering pipelines at Capgemini, bui
 
 ---
 
-### 🧠 Areas of Expertise
+### Areas of Expertise
 
 - 🤖 Machine Learning (scikit-learn, XGBoost, PyTorch, TensorFlow)
 - 🧭 Recommender Systems, Search & Ranking
@@ -29,7 +29,7 @@ Previously, I worked on large-scale data engineering pipelines at Capgemini, bui
 
 ---
 
-### 🛠️ Recent Projects
+### Recent Projects
 
 🛠️ **DragnAI - A No-Code AI Model Builder**  
 A drag-and-drop interface for training ML models with zero coding.
@@ -63,7 +63,7 @@ Applied SMOTE and ensemble learning to build fraud detection pipelines; deployed
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 ![Aishwarya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aishwarya-banu&show_icons=true&theme=default&hide=prs&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aishwarya-banu&layout=compact&theme=default)
@@ -71,7 +71,7 @@ Applied SMOTE and ensemble learning to build fraud detection pipelines; deployed
 
 ---
 
-### 🌐 Connect with Me
+### Connect with Me
 
 - 🌍 Portfolio: [aishwaryabanumathy.lovable.app](https://aishwaryabanumathy.lovable.app)
 - 💼 LinkedIn: [linkedin.com/in/aishwaryabanumathy](https://www.linkedin.com/in/aishwaryabanumathy/)
