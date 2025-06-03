@@ -44,12 +44,10 @@ Implemented RFM analysis and clustering to identify key customer segments.
 → [GitHub Repository](https://github.com/Aishwarya-banu/customer-segmentation-retail)
 
 #### 🗺️ Disease Hotspot Prediction
-Modeled disease outbreak risk using environmental and epidemiological data. Employed classification models to detect high-risk regions.  
-→ [GitHub Repository](https://github.com/Aishwarya-banu/disease_hotspot_prediction)
+Modeled disease outbreak risk using environmental and epidemiological data. Employed classification models to detect high-risk regions.  → [GitHub Repository](https://github.com/Aishwarya-banu/disease_hotspot_prediction)
 
 #### 🏠 Smart Home Device Segmentation
-Clustered IoT users based on usage behavior for targeted device recommendations. Applied unsupervised learning and PCA for feature reduction.  
-→ [GitHub Repository](https://github.com/Aishwarya-banu/smart-home-devices)
+Clustered IoT users based on usage behavior for targeted device recommendations. Applied unsupervised learning and PCA for feature reduction.  → [GitHub Repository](https://github.com/Aishwarya-banu/smart-home-devices)
 
 #### 💬 **LLM-based Health Chatbot**  
 Fine-tuned a multi-turn medical chatbot using Hugging Face transformers & contextual dialogue handling.
@@ -58,8 +56,7 @@ Fine-tuned a multi-turn medical chatbot using Hugging Face transformers & contex
 Built predictive models using logistic regression, XGBoost, and SHAP analysis to derive actionable retention insights.
 
 #### 🔍 **Insurance Fraud Detection**  
-Applied SMOTE and ensemble learning to build fraud detection pipelines; deployed results with interactive Tableau dashboards.
-→ [GitHub Repository](https://github.com/Aishwarya-banu/Insurance-Claim-Fraud-Detection)
+Applied SMOTE and ensemble learning to build fraud detection pipelines; deployed results with interactive Tableau dashboards.→ [GitHub Repository](https://github.com/Aishwarya-banu/Insurance-Claim-Fraud-Detection)
 
 ---
 
