@@ -11,7 +11,7 @@
 
 ### 💡 About Me
 
-I’m a Machine Learning Engineer who thrives at the intersection of product and data. I recently launched my first **no-code AI model builder - DragnAI**, a product designed to empower anyone to train and deploy machine learning models effortlessly.
+I’m a Machine Learning Engineer who thrives at the intersection of product and data. I recently built my first **no-code AI model builder - DragnAI**, a product designed to empower anyone to train and deploy machine learning models effortlessly.
 
 Previously, I worked on large-scale data engineering pipelines at Capgemini, built strategic roadmaps as a project consultant, and now focus on building robust ML pipelines, recommender systems, and natural language products that scale.
 
