@@ -19,43 +19,43 @@ Previously, I worked on large-scale data engineering pipelines at Capgemini, bui
 
 ### Areas of Expertise
 
-- 🤖 Machine Learning (scikit-learn, XGBoost, PyTorch, TensorFlow)
-- 🧭 Recommender Systems, Search & Ranking
-- 🗣️ NLP with LLMs (Hugging Face, BERT)
-- 🧪 A/B Testing & Causal Inference
-- 📊 Data Engineering (SQL, Airflow, Informatica, BigQuery, Snowflake)
-- 📈 Experimentation, SHAP, Gradient Boosting, Deep Learning
-- ☁️ AWS | GCP 
+- Machine Learning (scikit-learn, XGBoost, PyTorch, TensorFlow)
+- Recommender Systems, Search & Ranking
+- NLP with LLMs (Hugging Face, BERT)
+- A/B Testing & Causal Inference
+- Data Engineering (SQL, Airflow, Informatica, BigQuery, Snowflake)
+- Experimentation, SHAP, Gradient Boosting, Deep Learning
+- AWS | GCP 
 
 ---
 
 ### Recent Projects
 
-🛠️ **DragnAI - A No-Code AI Model Builder**  
+ **DragnAI - A No-Code AI Model Builder**  
 A drag-and-drop interface for training ML models with zero coding.
 → [Launch coming soon | Built with Streamlit, scikit-learn, and LLM APIs]
 
-#### 📊 Crisis Intelligence Dashboard
+#### Crisis Intelligence Dashboard
 An interactive dashboard providing real-time insights during crises.
 → [GitHub Repository](https://github.com/Aishwarya-banu/crisis-intelligence-dashboard)
 
-#### 🛍️ Customer Segmentation for Retail
+#### Customer Segmentation for Retail
 Implemented RFM analysis and clustering to identify key customer segments.
 → [GitHub Repository](https://github.com/Aishwarya-banu/customer-segmentation-retail)
 
-#### 🗺️ Disease Hotspot Prediction
+#### Disease Hotspot Prediction
 Modeled disease outbreak risk using environmental and epidemiological data. Employed classification models to detect high-risk regions.  → [GitHub Repository](https://github.com/Aishwarya-banu/disease_hotspot_prediction)
 
-#### 🏠 Smart Home Device Segmentation
+#### Smart Home Device Segmentation
 Clustered IoT users based on usage behavior for targeted device recommendations. Applied unsupervised learning and PCA for feature reduction.  → [GitHub Repository](https://github.com/Aishwarya-banu/smart-home-devices)
 
-#### 💬 **LLM-based Health Chatbot**  
+#### **LLM-based Health Chatbot**  
 Fine-tuned a multi-turn medical chatbot using Hugging Face transformers & contextual dialogue handling.
 
-#### 📉 **Customer Churn Prediction**  
+#### **Customer Churn Prediction**  
 Built predictive models using logistic regression, XGBoost, and SHAP analysis to derive actionable retention insights.
 
-#### 🔍 **Insurance Fraud Detection**  
+#### **Insurance Fraud Detection**  
 Applied SMOTE and ensemble learning to build fraud detection pipelines; deployed results with interactive Tableau dashboards.→ [GitHub Repository](https://github.com/Aishwarya-banu/Insurance-Claim-Fraud-Detection)
 
 ---
@@ -70,7 +70,7 @@ Applied SMOTE and ensemble learning to build fraud detection pipelines; deployed
 
 ### Connect with Me
 
-- 🌍 Portfolio: [aishwaryabanumathy.lovable.app](https://aishwaryabanumathy.lovable.app)
+- 🌍 Portfolio: [aishwaryabanumathy.com](https://aishwaryabanumathy.com)
 - 💼 LinkedIn: [linkedin.com/in/aishwaryabanumathy](https://www.linkedin.com/in/aishwaryabanumathy/)
 - 📧 Email: [aishwaryabanu.ms@gmail.com](mailto:aishwaryabanu.ms@gmail.com)
 
