@@ -2,9 +2,9 @@
 <h3 align="center">Machine Learning Engineer | Product Builder | Data Enthusiast</h3>
 
 <p align="center">
-  > Passionate about building intelligent products that solve real-world problems.<br/>
-  > 6+ years in Data Engineering, Analytics & ML product development.<br/>
-  > MSBA @ UC Davis (2025) | ex-Capgemini | Project Manager <br/>
+  🚀 Passionate about building intelligent products that solve real-world problems.<br/>
+  🎯 6+ years in Data Engineering, Analytics & ML product development.<br/>
+  🎓 MSBA @ UC Davis (2025) | ex-Capgemini | Project Manager <br/>
 </p>
 
 ---
@@ -31,31 +31,31 @@ Previously, I worked on large-scale data engineering pipelines at Capgemini, bui
 
 ### Recent Projects
 
-#### 1. **DragnAI - A No-Code AI Model Builder**  
+#### 🛠️ **DragnAI - A No-Code AI Model Builder**  
 A drag-and-drop interface for training ML models with zero coding.
 → [Launch coming soon | Built with Streamlit, scikit-learn, and LLM APIs]
 
-#### 2. Crisis Intelligence Dashboard
+#### 📊 Crisis Intelligence Dashboard
 An interactive dashboard providing real-time insights during crises.
 → [GitHub Repository](https://github.com/Aishwarya-banu/crisis-intelligence-dashboard)
 
-#### 3. Customer Segmentation for Retail
+#### 🛍️ Customer Segmentation for Retail
 Implemented RFM analysis and clustering to identify key customer segments.
 → [GitHub Repository](https://github.com/Aishwarya-banu/customer-segmentation-retail)
 
-#### 4. Disease Hotspot Prediction
+#### 🗺️ Disease Hotspot Prediction
 Modeled disease outbreak risk using environmental and epidemiological data. Employed classification models to detect high-risk regions.  → [GitHub Repository](https://github.com/Aishwarya-banu/disease_hotspot_prediction)
 
-#### 5. Smart Home Device Segmentation
+#### 🏠 Smart Home Device Segmentation
 Clustered IoT users based on usage behavior for targeted device recommendations. Applied unsupervised learning and PCA for feature reduction.  → [GitHub Repository](https://github.com/Aishwarya-banu/smart-home-devices)
 
-#### 6. **LLM-based Health Chatbot**  
+#### 💬 **LLM-based Health Chatbot**  
 Fine-tuned a multi-turn medical chatbot using Hugging Face transformers & contextual dialogue handling.
 
-#### 7. **Customer Churn Prediction**  
+#### 📉 **Customer Churn Prediction**  
 Built predictive models using logistic regression, XGBoost, and SHAP analysis to derive actionable retention insights.
 
-#### 8. **Insurance Fraud Detection**  
+#### 🔍 **Insurance Fraud Detection**  
 Applied SMOTE and ensemble learning to build fraud detection pipelines; deployed results with interactive Tableau dashboards.→ [GitHub Repository](https://github.com/Aishwarya-banu/Insurance-Claim-Fraud-Detection)
 
 ---
